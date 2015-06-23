@@ -1,0 +1,29 @@
+=====================================
+
+Usage ./game <args>
+
+./game (no args) just play
+
+--skip
+Skip intro screen
+
+--noaudio
+No audio will play
+
+--debug
+show debugging view
+use this flag when piping computer.txt
+
+--rain
+turns on rain effect
+
+--gametime <float>
+sets game tick speed to <float>
+
+--replay
+plays replay from piped into input usually replay.txt
+can be another saved file
+do not use with --skip
+
+
+=======================================
