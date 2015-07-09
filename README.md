@@ -1,5 +1,14 @@
 # Tanks
-2 player tank game in terminal.
+2 player tank game in terminal in c++ 98.
+
+![Title Image]
+(readme01.png)
+
+![Play Image]
+(readme02.png)
+
+![Terrain Image]
+(readme03.png)
 
 Usage:
 
