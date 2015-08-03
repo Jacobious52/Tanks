@@ -1,5 +1,6 @@
 # Tanks
-2 player tank game in terminal in c++ 98.
+2 player tank game in terminal in c++ 98. Using only escape sequences for drawing. (**no ncurses!**) Has sound and music.
+Builds on Linux and OSX.
 
 ![Title Image]
 (readme01.png)
@@ -22,6 +23,6 @@ make
 run
   -  ./game
   - ./game --help
-  - ./game (args found in help)
+  - ./game (args found in --help)
 
-Sound files (.wav) are not included in the repo. (too big). Game should run without them.
+Sound files (.wav) are not included in the repo (too big). Game will run without them.
