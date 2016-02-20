@@ -1,4 +1,4 @@
-CPPFLAGS = -std=c++98 -pedantic -Wall
+CPPFLAGS = -std=c++98
 SOURCES	= ConsoleTools.cpp GameView.cpp IntroView.cpp EndView.cpp MutableArray.cpp Point.cpp Sprite.cpp StringTools.cpp Terrain.cpp TextureTools.cpp Timer.cpp Bullet.cpp View.cpp Tank.cpp DebugView.cpp
 OBJECTS = $(SOURCES:%.cpp=%.o)
 
