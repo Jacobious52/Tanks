@@ -11,16 +11,24 @@ Builds on Linux and OSX.
 ![Terrain Image]
 (readme03.png)
 
-Usage:
+##Usage:
 
-make
+**Basic usage:**
+  - cd to cloned directory
+  - make
+  - chmod +x runforever.sh
+  - ./runforever.sh
+
+**Detailed**
+
+*make*
   - all
   - test
   - game
   - clean
   - debug
 
-run
+*run*
   -  ./game
   - ./game --help
   - ./game (args found in --help)
